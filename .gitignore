@@ -1,4 +1,6 @@
 /target/
 /nbproject/
 /build/
-*.xml
+build.xml
+nb-configuration.xml
+nbactions.xml
